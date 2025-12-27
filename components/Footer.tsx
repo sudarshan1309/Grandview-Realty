@@ -18,11 +18,11 @@ export const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center gap-3 text-gray-400 text-sm">
                 <MapPin className="w-4 h-4 text-brand" />
-                <span>100 Luxury Lane, Beverly Hills, CA 90210</span>
+                <span>2711 SE I Street Suite 1 Bentonville Arkansas 72712</span>
               </div>
               <div className="flex items-center gap-3 text-gray-400 text-sm">
                 <Phone className="w-4 h-4 text-brand" />
-                <span>(555) 123-4567</span>
+                <span>(479) 601-3600</span>
               </div>
               <div className="flex items-center gap-3 text-gray-400 text-sm">
                 <Mail className="w-4 h-4 text-brand" />
