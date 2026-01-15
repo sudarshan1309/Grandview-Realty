@@ -22,11 +22,11 @@ export const Footer = () => {
               </div>
               <div className="flex items-center gap-3 text-gray-400 text-sm">
                 <Phone className="w-4 h-4 text-brand" />
-                <span>(479) 601-3600</span>
+                <span>(479) 995-9165</span>
               </div>
               <div className="flex items-center gap-3 text-gray-400 text-sm">
                 <Mail className="w-4 h-4 text-brand" />
-                <span>inquiry@grandviewrealty.com</span>
+                <span>pm@grandviewrealty.us</span>
               </div>
             </div>
           </div>
